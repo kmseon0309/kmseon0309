@@ -3,8 +3,7 @@
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
 </table>
-
-<img src="https://emojigraph.org/media/openmoji/whale_1f40b.png" /> About Me
+<img src="https://emojigraph.org/media/openmoji/whale_1f40b.png"> About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Software Engineer at [Cint](https://www.cint.com/). \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
