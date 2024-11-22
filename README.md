@@ -27,7 +27,7 @@
 
 <details>
 <summary>:trophy: Github Stats</summary>
-<a href="https://github.com/kmseon0309/kmseon0309">
+<a href="https://github.com/kmseon0309/">
   <img src="https://api.githubtrends.io/user/svg/kmseon0309/langs?time_range=one_year&use_percent=True&theme=bright_lights">
 </a>
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight">
