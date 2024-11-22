@@ -6,7 +6,7 @@
 ✏️Enrolled in the School of Art & Technology at Chung-Ang University.<br>
 ❤️‍🔥Reckless but equally passionate.<br>
 ✨I love learning anything and everything!<br>
-</h4></p>
+</h4></p><br>
 
 
 ![bb1533e63c2d4db5aa7640978d8af2542](https://github.com/user-attachments/assets/83405f3d-63ed-4eef-921a-1d01827a6a16)
