@@ -33,7 +33,7 @@
 
 <details>
 <summary>:trophy: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=kmseon0309&show_icons=true&theme=tokyonight">
 <img src="https://github-profile-trophy.vercel.app/?username=kmseon0309&theme=tokyonight">
   <br>
 </details>
