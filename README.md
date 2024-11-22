@@ -49,11 +49,12 @@
 ![bb1533e63c2d4db5aa7640978d8af2541](https://github.com/user-attachments/assets/2b6ed14b-de19-46b9-ad77-69a7085f26a9)
 <h3 align="center">Join me, full of passion, for an exciting project! Feel free to reach out!</h3>
   <br>
-<p align="center">
-  <img src="https://img.shields.io/badge/-kmseon0309@cau.ac.kr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmseon0309@cau.ac.kr">
-  <img src="https://img.shields.io/badge/-@s.46_.1-F361DC?style=flat-square&labelColor=F361DC&logo=instagram&logoColor=white&link=https://www.instagram.com/s.46_.1/)](https://www.instagram.com/s.46_.1/">
-  <img src="https://img.shields.io/badge/-@joolnan717-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/@user-joolnan717">
-</p><br>
+<div align="center">
+
+   [![Gmail Badge](https://img.shields.io/badge/-kmseon0309-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmseon0309@cau.ac.kr)](kmseon0309@cau.ac.kr)
+   [![Youtube Badge](https://img.shields.io/badge/-@joolnan717-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/@user-joolnan717)](https://www.youtube.com/@user-joolnan717)
+  [![Instagram Badge](https://img.shields.io/badge/-@s.46_.1-F361DC?style=flat-square&labelColor=F361DC&logo=instagram&logoColor=white&link=https://www.instagram.com/s.46_.1/)](https://www.instagram.com/s.46_.1/)
+</div><br>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/kmseon0309/count.svg">
