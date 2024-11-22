@@ -43,9 +43,8 @@
 
 
 ![bb1533e63c2d4db5aa7640978d8af2543](https://github.com/user-attachments/assets/62f8a1be-4363-434a-8e10-ab9650c3d718)
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+<p align="center">
+  <img src="https://profile-counter.glitch.me/kmseon0309/count.svg" />
 </p>
 
 <p align="center">
