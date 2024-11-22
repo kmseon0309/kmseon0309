@@ -1,8 +1,7 @@
-<img src="images/svg/header_en.svg"></img>
+<img src="images/svg/header_en.svg"></img>![bb1533e63c2d4db5aa7640978d8af254](https://github.com/user-attachments/assets/ae54b646-1aaf-40ce-a57c-55d5a606a449)
 
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/kr-flag.png" height="13"> Korean</a></td></tr>
 </table>
 
 ### :space_invader: &nbsp;About Me
