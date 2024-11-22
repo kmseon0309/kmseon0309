@@ -27,14 +27,27 @@
 
 <details>
 <summary>:trophy: Github Stats</summary>
+<a href="https://github.com/kmseon0309/kmseon0309">
+  <img src="https://api.githubtrends.io/user/svg/kmseon0309/langs?time_range=one_year&use_percent=True&theme=bright_lights">
+</a>
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight">
 <img src="https://github-profile-trophy.vercel.app/?username=kmseon0309&theme=tokyonight">
+</details>
+
+<details>
+<summary>📑 Project </summary>
+(Planned to be filled in the future...)
 </details>
 
 
 
 
 ![bb1533e63c2d4db5aa7640978d8af2543](https://github.com/user-attachments/assets/62f8a1be-4363-434a-8e10-ab9650c3d718)
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+</p>
+
 <p align="center">
   <a href="https://www.instagram.com/s.46_.1/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp
 </p>
