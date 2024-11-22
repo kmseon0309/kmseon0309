@@ -1,7 +1,7 @@
-![bb1533e63c2d4db5aa7640978d8af2541](https://github.com/user-attachments/assets/2b6ed14b-de19-46b9-ad77-69a7085f26a9)
+![bb1533e63c2d4db5aa7640978d8af2543](https://github.com/user-attachments/assets/62f8a1be-4363-434a-8e10-ab9650c3d718)
 
 <p><h1><img src="https://emojigraph.org/media/72/openmoji/whale_1f40b.png" >The Girl Who Longed for Whales</h1></p>
-<p><h5></h5></p>
+<p><h5>dsfadfasfsdfa</h5></p>
 
 
 ![bb1533e63c2d4db5aa7640978d8af2542](https://github.com/user-attachments/assets/83405f3d-63ed-4eef-921a-1d01827a6a16)
@@ -27,9 +27,6 @@
 
 <details>
 <summary>:trophy: Github Stats</summary>
-<a href="https://github.com/kmseon0309/">
-  <img src="https://api.githubtrends.io/user/svg/kmseon0309/langs?time_range=one_year&use_percent=True&theme=bright_lights">
-</a>
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight">
 <img src="https://github-profile-trophy.vercel.app/?username=kmseon0309&theme=tokyonight">
 </details>
@@ -42,7 +39,7 @@
 
 
 
-![bb1533e63c2d4db5aa7640978d8af2543](https://github.com/user-attachments/assets/62f8a1be-4363-434a-8e10-ab9650c3d718)
+![bb1533e63c2d4db5aa7640978d8af2541](https://github.com/user-attachments/assets/2b6ed14b-de19-46b9-ad77-69a7085f26a9)
 <p align="center">
   <img src="https://profile-counter.glitch.me/kmseon0309/count.svg" />
 </p>
