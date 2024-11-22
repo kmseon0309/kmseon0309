@@ -1,10 +1,7 @@
 ![bb1533e63c2d4db5aa7640978d8af2541](https://github.com/user-attachments/assets/2b6ed14b-de19-46b9-ad77-69a7085f26a9)
-<table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
-</table>
 
 <p><h1><img src="https://emojigraph.org/media/72/openmoji/whale_1f40b.png" >The Girl Who Longed for Whales</h1></p>
-
+<p><h5></h5></p>
 
 
 ![bb1533e63c2d4db5aa7640978d8af2542](https://github.com/user-attachments/assets/83405f3d-63ed-4eef-921a-1d01827a6a16)
