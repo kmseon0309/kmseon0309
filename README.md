@@ -55,7 +55,3 @@
    [![Instagram Badge](https://img.shields.io/badge/-@s.46_.1-F361DC?style=flat-square&labelColor=F361DC&logo=instagram&logoColor=white&link=https://www.instagram.com/s.46_.1/)](https://www.instagram.com/s.46_.1/)
    [![Youtube Badge](https://img.shields.io/badge/-@joolnan717-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/@user-joolnan717)](https://www.youtube.com/@user-joolnan717)
 </div><br>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/kmseon0309/count.svg">
-</p>
