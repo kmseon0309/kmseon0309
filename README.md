@@ -1,6 +1,6 @@
 ![bb1533e63c2d4db5aa7640978d8af2543](https://github.com/user-attachments/assets/62f8a1be-4363-434a-8e10-ab9650c3d718)
 
-<p><h1><img src="https://emojigraph.org/media/72/openmoji/whale_1f40b.png" >The Girl Who Longed for Whales
+<p><h1><img src="https://emojigraph.org/media/72/openmoji/whale_1f40b.png" >
 </h1></p>
 <p><h4>
 ✏️Enrolled in the School of Art & Technology at Chung-Ang University.<br>
